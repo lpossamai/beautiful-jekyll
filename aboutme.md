@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 Kia Ora! :smile:
 
-I’m Lucas and am based in Auckland, New Zealand. Make sure to check my social medias on the bottom of this page!
+I’m Lucas and am based in [Auckland, New Zealand](https://goo.gl/maps/KiLw6dbJBDptdfx88). Make sure to check my social medias on the bottom of this page!
 
 You can check more about the work I have done below:
 * 2020: From bare metal to AWS Cloud with RDS Oracle and CloudFormation. –in development–
