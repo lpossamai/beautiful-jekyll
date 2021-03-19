@@ -8,7 +8,7 @@ Kia Ora! :smile:
 
 I’m Lucas and am based in [Auckland, New Zealand](https://goo.gl/maps/KiLw6dbJBDptdfx88). Make sure to check my social medias on the bottom of this page!
 
-You can check more about the work I have done below:
+You can check more about the work I have done below  :thumbsup::
 * 2020: From bare metal to AWS Cloud with RDS Oracle and CloudFormation. –in development–
 * 2020: [Creating AWS IAM Access and Secret Access key with Ansible]({% post_url 2020-06-01-ansible-iam-secret-key %})
 * 2020: [Upload multipart files to AWS S3 using the AWS s3api tool]({% post_url 2020-06-01-upload-multipart-files-to-s3 %})
