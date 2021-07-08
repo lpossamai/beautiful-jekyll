@@ -6,7 +6,7 @@ title: About me
 
 Kia Ora! :smile:
 
-I’m Lucas and am based in [Auckland, New Zealand](https://goo.gl/maps/KiLw6dbJBDptdfx88)  :house:. I am a Cloud / DevOps Engineer with years of experience. You can check some of my achievements below. Feel free to [contact me](mailto:lucas@lpossamai.me) for more information.
+I’m Lucas and am based in [Auckland, New Zealand](https://goo.gl/maps/KiLw6dbJBDptdfx88)  :house:. I am a Cloud / DevOps Engineer with years of experience. You can check some of my achievements below. Feel free to [contact me](https://keybase.io/lpossamai) for more information.
 
 You can check more about the work I have done below  :thumbsup::
 * 2021: Design and deployment of a highly scalable and redundant, PCI and CIS compliant architecture in AWS Cloud with AWS Elastic Kubernetes Service, Application Load Balancer, AWS Shields and AWS WAF managed by Terraform. –in development–
